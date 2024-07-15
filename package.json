@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "firebase-error-codes": "^1.2.2"
+  }
+}

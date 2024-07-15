@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596999773792",
+    "project_id": "nomishop-a8712",
+    "storage_bucket": "nomishop-a8712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596999773792:android:8e1f9c7bca5700b2dbad05",
+        "android_client_info": {
+          "package_name": "com.example.nomishop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zHIV1ZQMz03X9LaJ3NuTvs7EakZYEJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
